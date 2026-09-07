@@ -1,0 +1,10 @@
+[
+    {
+        "id_prestamo": 1,
+        "usuario_id": "U001",
+        "articulo": "Silla para bebe",
+        "fecha_prestamo": "2026-09-01 12:00:00",
+        "fecha_devolucion": "2026-09-01 13:30:00",
+        "estado": "devuelto"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "identificacion": "U001",
+        "nombre": "Maria Perez",
+        "correo": "maria.perez@example.com",
+        "tipo": "cliente"
+    },
+    {
+        "identificacion": "U002",
+        "nombre": "Juan Torres",
+        "correo": "juan.torres@example.com",
+        "tipo": "cliente"
+    }
+]

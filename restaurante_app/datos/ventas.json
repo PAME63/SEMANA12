@@ -1,0 +1,10 @@
+[
+    {
+        "id_venta": 1,
+        "usuario_id": "U001",
+        "producto_codigo": "P001",
+        "cantidad": 2,
+        "total": 13.0,
+        "fecha": "2026-09-01 12:30:00"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa clasica",
+        "categoria": "Plato fuerte",
+        "precio": 6.5,
+        "stock": 20
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizza margarita",
+        "categoria": "Plato fuerte",
+        "precio": 8.0,
+        "stock": 14
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Gaseosa 350ml",
+        "categoria": "Bebida",
+        "precio": 1.5,
+        "stock": 50
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Torta de chocolate",
+        "categoria": "Postre",
+        "precio": 3.0,
+        "stock": 10
+    },
+    {
+        "codigo": "001",
+        "nombre": "cola",
+        "categoria": "bevidas",
+        "precio": 0.5,
+        "stock": 3
+    }
+]
